@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP, Javascript, Css, Photoshop**
 
-- 📫 How to reach me **nawafgantare@gmail.com**
+- 📫 How to reach me **nawaf@blankanalytica.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
