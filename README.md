@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawafgantare" alt="nawafgantare" /></a> </p>
 
-- 🔭 I’m currently working on **Auto Meta Description Generator based on Google Search Console Data**
+- 🔭 I’m currently working on **Automation**
 
 - 🌱 I’m currently learning **Python**
 
